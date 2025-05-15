@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="horsesdropoploot:jar">
+    <output-path>$USER_HOME$/Desktop/Paper server/plugins</output-path>
+    <root id="archive" name="horsesdropoploot.jar">
+      <element id="module-output" name="horsesdropoploot" />
+    </root>
+  </artifact>
+</component>
